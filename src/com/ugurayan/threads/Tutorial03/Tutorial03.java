@@ -1,7 +1,7 @@
 package com.ugurayan.threads.Tutorial03;
 
 /**-----------------------------------------------------------------------------------------------------------
- * Subject : Implementation of Threads implement as Runnable
+ * Subject : Implementation of Threads using Anonymous Class implementation
  * Created by: Ugur Ayan
  * Date: 11/10/2017.
  ------------------------------------------------------------------------------------------------------------*/
