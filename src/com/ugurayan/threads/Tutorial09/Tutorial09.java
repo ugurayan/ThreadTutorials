@@ -1,16 +1,16 @@
-package com.ugurayan.threads.Tutorial09;
-
-import java.util.Queue;
-import java.util.Random;
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-
 /**-----------------------------------------------------------------------------------------------------------
  * Subject : Producer Consumer PAtterns
  *
  * Created by: Ugur Ayan
  * Date: 11/11/2017.
  ------------------------------------------------------------------------------------------------------------*/
+
+package com.ugurayan.threads.Tutorial09;
+
+import java.util.Random;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
+
 
 public class Tutorial09 {
 

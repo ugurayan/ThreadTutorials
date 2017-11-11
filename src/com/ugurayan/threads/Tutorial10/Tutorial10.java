@@ -1,4 +1,3 @@
-package com.ugurayan.threads.Tutorial10;
 
 /**-----------------------------------------------------------------------------------------------------------
  * Subject : Wait and notify
@@ -7,6 +6,8 @@ package com.ugurayan.threads.Tutorial10;
  * Date: 11/11/2017.
  ------------------------------------------------------------------------------------------------------------*/
 
+
+package com.ugurayan.threads.Tutorial10;
 
 public class Tutorial10 {
     public static void main(String[] args) throws InterruptedException {
