@@ -40,7 +40,7 @@ public class Runner {
         }
     }
 
-    //firstThread runs
+    // firstThread runs
     public void firstThread() throws InterruptedException {
         Random random = new Random();
         for (int i = 0; i < 10000; i++) {
@@ -54,7 +54,7 @@ public class Runner {
         }
     }
 
-    //SecondThread runs
+    // SecondThread runs
     public void secondThread() throws InterruptedException {
         Random random = new Random();
         for (int i = 0; i < 10000; i++) {
