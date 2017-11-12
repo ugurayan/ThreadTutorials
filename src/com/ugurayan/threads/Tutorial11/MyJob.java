@@ -43,10 +43,6 @@ public class MyJob {
         Random rand = new Random();
 
         while(true) {
-            while(myList.size() == LIMIT) {
-                lock.wait();
-            }
-
 
             synchronized (lock) {
                 System.out.println("List size is " + myList.size());
