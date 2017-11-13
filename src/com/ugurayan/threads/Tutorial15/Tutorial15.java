@@ -1,7 +1,12 @@
-package com.ugurayan.threads.Tutorial15;
-
 /**
- * Created by future on 11/13/17.
- */
+ * -----------------------------------------------------------------------------------------------------------
+ * Subject : Semaphores Threads
+ * <p>
+ * Created by: Ugur Ayan
+ * Date: 11/13/2017.
+ * ------------------------------------------------------------------------------------------------------------
+ */package com.ugurayan.threads.Tutorial15;
+
+
 public class Tutorial15 {
 }
